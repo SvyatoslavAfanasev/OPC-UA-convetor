@@ -1,0 +1,11 @@
+numeric.random.bool: True;
+numeric.random.double: 206,3;
+numeric.random.float: 1369;
+numeric.random.int16: 1206;
+numeric.random.int32: 2822;
+numeric.random.int64: 1155;
+numeric.random.int8: 480,5;
+numeric.random.uint16: 2507;
+numeric.random.uint32: 1219;
+numeric.random.uint64: 1876;
+numeric.random.uint8: 1042,1;
