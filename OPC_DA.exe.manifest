@@ -90,14 +90,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OPC_DA.exe" size="11200">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OPC_DA.exe" size="12736">
       <assemblyIdentity name="OPC_DA" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ar2i+VevTXMiRAvCU/opstgY9eg=</dsig:DigestValue>
+        <dsig:DigestValue>dVBAFUpbjy9Df43n7eiIqrTSkxQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -153,6 +153,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>hvVm2FMzj6++vcSUxMswMVCb+Gs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="cfg.xml" size="432" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>6waZBgl69LTEBgiCf4dpw7iiNDI=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="381ae007-a90a-4cf7-82a1-98163ac7603e" name="Default Changelist" comment="" />
+    <list default="true" id="381ae007-a90a-4cf7-82a1-98163ac7603e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertor_DA_UA.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Convertor_DA_UA.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertor_DA_UA.py" beforeDir="false" afterPath="$PROJECT_DIR$/Convertor_DA_UA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertor_DA_UA.spec" beforeDir="false" afterPath="$PROJECT_DIR$/Convertor_DA_UA.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OPC_DA.application" beforeDir="false" afterPath="$PROJECT_DIR$/OPC_DA.application" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OPC_DA.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OPC_DA.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OPC_DA.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/OPC_DA.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag_List.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Tag_List.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UA_Server.py" beforeDir="false" afterPath="$PROJECT_DIR$/UA_Server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Convertor_DA_UA/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/Convertor_DA_UA/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Convertor_DA_UA/Convertor_DA_UA.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/build/Convertor_DA_UA/Convertor_DA_UA.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Convertor_DA_UA/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/Convertor_DA_UA/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Convertor_DA_UA/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/Convertor_DA_UA/PKG-00.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Convertor_DA_UA/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/Convertor_DA_UA/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Convertor_DA_UA/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/Convertor_DA_UA/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Convertor_DA_UA/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/Convertor_DA_UA/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Convertor_DA_UA/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/Convertor_DA_UA/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Convertor_DA_UA/warn-Convertor_DA_UA.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/Convertor_DA_UA/warn-Convertor_DA_UA.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Convertor_DA_UA/xref-Convertor_DA_UA.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/Convertor_DA_UA/xref-Convertor_DA_UA.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/Convertor_DA_UA.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/Convertor_DA_UA.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log_file.log" beforeDir="false" afterPath="$PROJECT_DIR$/log_file.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tagsAll.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagsAll.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Convertor_DA_UA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="558">
+              <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="198" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -23,15 +46,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log_file.log">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cfg.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="144">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -45,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UA_Server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="79" column="22" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+            <state relative-caret-position="411">
+              <caret line="96" column="37" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -57,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tagsAll.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="217">
+              <caret line="435" column="30" selection-start-line="435" selection-start-column="25" selection-end-line="435" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -72,6 +90,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>KB524</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -81,18 +107,19 @@
         <option value="$PROJECT_DIR$/cfg.xml" />
         <option value="$PROJECT_DIR$/main.py" />
         <option value="C:/Python34/virtualenv/Lib/site-packages/opcua/ua/uatypes.py" />
-        <option value="$PROJECT_DIR$/log_file.log" />
         <option value="$PROJECT_DIR$/Convertor_DA_UA.py" />
+        <option value="$PROJECT_DIR$/log_file.log" />
         <option value="$PROJECT_DIR$/UA_Server.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1168" />
+    <option name="x" value="1834" />
+    <option name="y" value="-18" />
+    <option name="width" value="1296" />
+    <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -133,7 +160,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Convertor_DA_UA">
+    <configuration name="Convertor_DA_UA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UA_Server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Convertor_DA_UA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="UA_Server" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,6 +205,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Convertor_DA_UA" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -175,27 +224,37 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1168" extended-state="7" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1168" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1085353" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16332982" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.47536233" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17971015" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3169082" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.23188406" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.19903381" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/UA_Server.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/log/LOGS.py">
@@ -222,19 +281,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tagsAll.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python34/virtualenv/Lib/site-packages/opcua/ua/uatypes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
           <caret line="819" column="35" selection-start-line="819" selection-start-column="35" selection-end-line="819" selection-end-column="35" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_file.log">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/log/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -243,30 +298,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log_file.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/cfg.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="144">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Convertor_DA_UA.py">
+    <entry file="file://$PROJECT_DIR$/tagsAll.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="217">
+          <caret line="435" column="30" selection-start-line="435" selection-start-column="25" selection-end-line="435" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UA_Server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="79" column="22" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+        <state relative-caret-position="411">
+          <caret line="96" column="37" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Convertor_DA_UA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="198" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

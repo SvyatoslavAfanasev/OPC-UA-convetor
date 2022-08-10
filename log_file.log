@@ -1,1 +1,23 @@
-
+2022-08-08 12:10:45,773 - INFO - UA_SERVER - Start UA SERVER! UA_HOST: opc.tcp://127.0.0.1:4851
+2022-08-08 12:11:51,049 - INFO - UA_SERVER - Start UA SERVER! UA_HOST: opc.tcp://127.0.0.1:4851
+2022-08-08 12:12:41,471 - INFO - UA_SERVER - Start UA SERVER! UA_HOST: opc.tcp://127.0.0.1:4851
+2022-08-08 12:12:41,487 - INFO - UA_Server.add_value_from_txt - Adding tags in opc ua server
+2022-08-08 12:12:56,601 - INFO - UA_SERVER - Start UA SERVER! UA_HOST: opc.tcp://127.0.0.1:4851
+2022-08-08 12:12:56,616 - INFO - UA_Server.add_value_from_txt - Adding tags in opc ua server
+2022-08-08 12:13:10,164 - INFO - UA_SERVER - Start UA SERVER! UA_HOST: opc.tcp://127.0.0.1:4851
+2022-08-08 12:13:36,905 - INFO - UA_SERVER - Start UA SERVER! UA_HOST: opc.tcp://127.0.0.1:4851
+2022-08-08 12:14:51,821 - INFO - UA_SERVER - Start UA SERVER! UA_HOST: opc.tcp://127.0.0.1:4851
+2022-08-08 12:15:08,410 - INFO - UA_SERVER - Start UA SERVER! UA_HOST: opc.tcp://127.0.0.1:4851
+2022-08-08 12:16:16,218 - INFO - UA_SERVER - Start UA SERVER! UA_HOST: opc.tcp://127.0.0.1:4851
+2022-08-08 12:18:26,763 - INFO - UA_SERVER - Start UA SERVER! UA_HOST: opc.tcp://127.0.0.1:4851
+2022-08-08 12:18:41,387 - INFO - UA_SERVER - Start UA SERVER! UA_HOST: opc.tcp://127.0.0.1:4851
+2022-08-08 12:18:41,950 - INFO - UA_Server.add_value_from_txt - Adding tags in opc ua server
+2022-08-10 14:12:47,628 - INFO - UA_SERVER - Start UA SERVER! UA_HOST: opc.tcp://127.0.0.1:4851
+2022-08-10 14:12:48,163 - INFO - UA_Server.add_value_from_txt - Adding tags in opc ua server
+2022-08-10 14:21:17,946 - INFO - UA_SERVER - Start UA SERVER! UA_HOST: opc.tcp://127.0.0.1:4851
+2022-08-10 14:21:18,489 - INFO - UA_Server.add_value_from_txt - Adding tags in opc ua server
+2022-08-10 14:26:08,284 - INFO - UA_SERVER - Start UA SERVER! UA_HOST: opc.tcp://127.0.0.1:4851
+2022-08-10 14:26:08,834 - INFO - UA_Server.add_value_from_txt - Adding tags in opc ua server
+2022-08-10 14:26:39,179 - INFO - UA_SERVER - Start UA SERVER! UA_HOST: opc.tcp://127.0.0.1:4851
+2022-08-10 14:29:18,757 - INFO - UA_SERVER - Start UA SERVER! UA_HOST: opc.tcp://127.0.0.1:4851
+2022-08-10 14:29:19,286 - INFO - UA_Server.add_value_from_txt - Adding tags in opc ua server

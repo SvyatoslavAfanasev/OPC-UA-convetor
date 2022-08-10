@@ -25,7 +25,8 @@ try:
         ua_serv.update_tags()
         time.sleep(int(config['UPDATE_RATE'])/1000)
 
-except:
-    print('Error')
+except OSError as err:
+    print('Error: ', err)
 
 
+# pyinstaller.exe --onefile --icon="C:\Users\svyat\OPC_DA_Allan Bredly\Для установщика\Gazprom-symbol.ico" --hidden-import win32timezone "C:\Users\svyat\PycharmProjects\UA_Server\Convertor_DA_UA.py"

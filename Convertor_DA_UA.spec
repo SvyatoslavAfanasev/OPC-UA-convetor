@@ -29,4 +29,4 @@ exe = EXE(pyz,
           strip=False,
           upx=True,
           runtime_tmpdir=None,
-          console=True )
+          console=True , icon='C:\\Users\\svyat\\OPC_DA_Allan Bredly\\Для установщика\\Gazprom-symbol.ico')
